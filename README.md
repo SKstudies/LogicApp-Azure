@@ -1,6 +1,8 @@
 # LogicApp-Azure
 just another simple azure mini project.
 
+Check the documentation for step-by-step implementation: https://github.com/SKstudies/LogicApp-Azure/blob/main/logicApp.pdf
+
 Project Summary: When user add a new file(blob) to Container it will be added to 'FILE SHARE' and user will get an EMAIL with the CONTENT of the File.
 
 Architecture:-
